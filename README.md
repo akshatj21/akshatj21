@@ -1,18 +1,4 @@
-### 👋 Hey, Akshat over here, WELCOME TO MY WORLD !
-- 🌱 I’m currently learning web Development and you would soon see projects upon them
-- 👀 I'm interested in Web Development, App Development and would like to futher dive into different aspects of technology
-- 📫 How to reach me: Gmail ID - akshatagarwalj21@gmail.com
-
-
-<!--
-**akshatj21/akshatj21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👋 Hey, Akshat over here, WELCOME !
+- 🌱 I’m currently working as Java Developer @ Tata Technologies
+- 👀 I'm interested in Back End Development, System Design and would like to futher dive into different aspects of technology
+- 📫 How to reach me: Gmail ID - aksh.ag2001@gmail.com
